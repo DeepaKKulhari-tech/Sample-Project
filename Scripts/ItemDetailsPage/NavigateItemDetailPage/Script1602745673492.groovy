@@ -16,3 +16,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.axis360qa.baker-taylor.com/')
+
+WebUI.click(findTestObject(''));
