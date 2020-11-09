@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>NavigateItemDetailPage</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>aa3b9eb2-08f3-49d1-b594-cc5a6c280f65</testCaseGuid>
+   <testCaseGuid>ce3ab5ff-b525-4a92-a763-18e51b8e5b3e</testCaseGuid>
 </TestCaseEntity>
